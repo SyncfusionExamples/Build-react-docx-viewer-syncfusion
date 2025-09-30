@@ -1,4 +1,4 @@
-# Build-react-docx-viewer-syncfusion
+# Build react docx viewer syncfusion
 This repository contains an example of how to build a react DOCX Viewer with Syncfusion DOCX editor. It showcases rich Word document (DOCX) editing and rendering directly within the browser, entirely free from Microsoft Word or Office interop dependencies.
 
 # How to run the application
